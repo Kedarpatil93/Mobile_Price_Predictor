@@ -1,0 +1,8 @@
+In a highly dynamic smartphone market, predicting the right price based on product specifications is essential for businesses to stay competitive and for customers to make informed choices.
+To simulate a real-world pricing problem, I scraped live mobile phone data directly from Flipkart, one of India's leading e-commerce platforms.
+The dataset includes various features like brand, RAM, storage, battery capacity, camera quality, screen size, and more — all of which potentially influence a mobile phone's price.
+
+In this project, we aim to build a machine learning model that accurately predicts the price of a mobile device based on its specifications.
+This project covers the complete data science workflow — from real-world data collection and cleaning to exploratory analysis, feature engineering, model building, evaluation, and potential deployment.
+
+By working with scraped, messy real-world data, this project reflects practical challenges that data scientists face in industry and showcases how machine learning can drive smarter pricing strategies.
